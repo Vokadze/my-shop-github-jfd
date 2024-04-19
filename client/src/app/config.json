@@ -1,0 +1,7 @@
+{
+    "apiEndpoint": "http://localhost:4000/api/v1/",
+    "apiEndpoint1": "mongodb+srv://sergey:shop-server-1234@cluster0.ey03dcl.mongodb.net/",
+    "apiEndpoint3": "http://localhost:8080/api/",
+    "apiEndpoint2": "https://my-shop-app-project-firebase-default-rtdb.europe-west1.firebasedatabase.app/",
+    "isFirebase": true
+}

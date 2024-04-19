@@ -1,0 +1,7 @@
+{
+    "port": 8080,
+    "mongoUri1": "mongodb://localhost:27017",
+    "mongoUri2": "mongodb+srv://sergey2024:sergey2024@cluster0.tyultnl.mongodb.net/app-msa?retryWrites=true&w=majority&appName=Cluster0",
+    "accessSecret": "super secret from backend",
+    "refreshSecret": "super refresh key"
+}

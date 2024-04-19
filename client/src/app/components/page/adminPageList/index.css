@@ -1,0 +1,38 @@
+.admin-page-table-all {
+    display: flex;
+    justify-content: between;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.admin-page-table {
+    display: flex;
+    flex-direction: column;
+    justify-content: between;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 1px;
+}
+
+.card {
+    background: #dee2e6;
+    --bs-bg-opacity: 1;
+    width: 14rem;
+    border: 1px solid #ffc107;
+    text-align: center;
+    padding-left: 1px;
+    padding-right: 1px;
+}
+
+.card-body {
+    padding-left: 1px;
+    padding-right: 1px;
+    padding-top: 2px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.card-title {
+    padding-bottom: 3px;
+    text-align: center;
+}

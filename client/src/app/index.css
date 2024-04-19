@@ -1,0 +1,6 @@
+.bg-opacity {
+    background: #e9ecef !important;
+    --bs-bg-opacity: 1;
+    padding-top: 50px;
+    padding-bottom: 75px;
+}

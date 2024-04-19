@@ -1,0 +1,29 @@
+.products-page {
+    display: flex;
+    flex-direction: column;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.products-page-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: between;
+}
+
+.product-page-select {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #ffc107;
+}
+
+.product-page-table {
+    display: flex;
+    flex-direction: column;
+    justify-content: between;
+}
+
+.products-pagination {
+    display: flex;
+    justify-content: center;
+}
